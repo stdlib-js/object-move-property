@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/object-move-property",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Move a property from one object to another object.",
   "license": "Apache-2.0",
   "author": {
@@ -37,12 +37,12 @@
     "url": "https://github.com/stdlib-js/stdlib/issues"
   },
   "dependencies": {
-    "@stdlib/string-format": "^0.2.2",
-    "@stdlib/utils-define-property": "^0.2.4",
+    "@stdlib/string-format": "^0.2.3",
+    "@stdlib/utils-define-property": "^0.2.5",
     "@stdlib/error-tools-fmtprodmsg": "^0.2.2"
   },
   "devDependencies": {
-    "@stdlib/random-base-randu": "^0.2.1",
+    "@stdlib/random-base-randu": "^0.2.2",
     "tape": "git+https://github.com/kgryte/tape.git#fix/globby",
     "istanbul": "^0.4.1",
     "tap-min": "git+https://github.com/Planeshifter/tap-min.git",
